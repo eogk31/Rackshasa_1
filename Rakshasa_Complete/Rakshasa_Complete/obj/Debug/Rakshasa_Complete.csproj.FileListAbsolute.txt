@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\bin\Debug\Rakshasa_Complete.exe.config
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\bin\Debug\Rakshasa_Complete.exe
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\bin\Debug\Rakshasa_Complete.pdb
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\obj\Debug\Rakshasa_Complete.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\obj\Debug\Rakshasa_Complete.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\obj\Debug\Rakshasa_Complete.exe
+C:\Users\ADMIN\Desktop\Rakshasa_Complete\Rakshasa_Complete\obj\Debug\Rakshasa_Complete.pdb

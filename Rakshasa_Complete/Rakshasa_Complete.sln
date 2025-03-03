@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rakshasa_Complete", "Rakshasa_Complete\Rakshasa_Complete.csproj", "{BC4F700D-6D58-421D-B817-1D3A05AC5C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4F700D-6D58-421D-B817-1D3A05AC5C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4F700D-6D58-421D-B817-1D3A05AC5C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4F700D-6D58-421D-B817-1D3A05AC5C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4F700D-6D58-421D-B817-1D3A05AC5C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09450EDE-D711-4377-8A1A-FBEEE4FD794F}
+	EndGlobalSection
+EndGlobal
