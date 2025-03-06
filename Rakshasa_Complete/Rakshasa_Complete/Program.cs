@@ -10,6 +10,7 @@ namespace Rakshasa_Complete
     {
         static void Main(string[] args)
         {
+            //update 확인
             Title.Display();
         }
     }
